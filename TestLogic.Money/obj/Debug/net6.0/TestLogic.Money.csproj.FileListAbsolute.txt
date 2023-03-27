@@ -1,0 +1,12 @@
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\TestLogic.Money.csproj.AssemblyReference.cache
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\TestLogic.Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\TestLogic.Money.AssemblyInfoInputs.cache
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\TestLogic.Money.AssemblyInfo.cs
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\TestLogic.Money.csproj.CoreCompileInputs.cache
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\bin\Debug\net6.0\TestLogic.Money.deps.json
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\bin\Debug\net6.0\TestLogic.Money.dll
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\bin\Debug\net6.0\TestLogic.Money.pdb
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\TestLogic.Money.dll
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\refint\TestLogic.Money.dll
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\TestLogic.Money.pdb
+C:\Project\ProjectTest\TestLogic\TestLogic.Money\obj\Debug\net6.0\ref\TestLogic.Money.dll

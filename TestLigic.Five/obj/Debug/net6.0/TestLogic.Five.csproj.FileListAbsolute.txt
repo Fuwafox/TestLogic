@@ -1,0 +1,12 @@
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\TestLogic.Five.csproj.AssemblyReference.cache
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\TestLogic.Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\TestLogic.Five.AssemblyInfoInputs.cache
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\TestLogic.Five.AssemblyInfo.cs
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\TestLogic.Five.csproj.CoreCompileInputs.cache
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\bin\Debug\net6.0\TestLogic.Five.deps.json
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\bin\Debug\net6.0\TestLogic.Five.dll
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\bin\Debug\net6.0\TestLogic.Five.pdb
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\TestLogic.Five.dll
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\refint\TestLogic.Five.dll
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\TestLogic.Five.pdb
+C:\Project\ProjectTest\TestLogic\TestLigic.Five\obj\Debug\net6.0\ref\TestLogic.Five.dll

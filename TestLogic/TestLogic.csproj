@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestLigic.Five\TestLogic.Five.csproj" />
+    <ProjectReference Include="..\TestLogic.Money\TestLogic.Money.csproj" />
+    <ProjectReference Include="..\TestLogic.Pyramid\TestLogic.Pyramid.csproj" />
+    <ProjectReference Include="..\TestLogic.Shifter\TestLogic.Shifter.csproj" />
+    <ProjectReference Include="..\TestLogic.SumNum\TestLogic.SumNum.csproj" />
+  </ItemGroup>
+
+</Project>

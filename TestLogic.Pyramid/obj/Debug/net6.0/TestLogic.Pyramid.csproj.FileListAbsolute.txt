@@ -1,0 +1,12 @@
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\bin\Debug\net6.0\TestLogic.Pyramid.deps.json
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\bin\Debug\net6.0\TestLogic.Pyramid.dll
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\bin\Debug\net6.0\TestLogic.Pyramid.pdb
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\TestLogic.Pyramid.csproj.AssemblyReference.cache
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\TestLogic.Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\TestLogic.Pyramid.AssemblyInfoInputs.cache
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\TestLogic.Pyramid.AssemblyInfo.cs
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\TestLogic.Pyramid.csproj.CoreCompileInputs.cache
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\TestLogic.Pyramid.dll
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\refint\TestLogic.Pyramid.dll
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\TestLogic.Pyramid.pdb
+C:\Project\ProjectTest\TestLogic\TestLogic.Pyramid\obj\Debug\net6.0\ref\TestLogic.Pyramid.dll
